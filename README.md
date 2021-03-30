@@ -1,7 +1,9 @@
 Eazytensions [![](https://jitpack.io/v/Pierry/Eazytensions.svg)](https://jitpack.io/#Pierry/Eazytensions)
 ===
 
-## Activty
+Helpers and extensions functions are so common today, and usually we need to import in every project that you start. 
+
+## Activity
 
     Activity.hideKeyboard()
 
@@ -18,6 +20,7 @@ Eazytensions [![](https://jitpack.io/v/Pierry/Eazytensions.svg)](https://jitpack
 ## IO
 
     Bitmap.toByteArray()
+    Bitmap.resizeBitmap
 
 ## String
 
