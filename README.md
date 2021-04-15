@@ -25,6 +25,8 @@ Helpers and extensions functions are so common today, and usually we need to imp
 ## String
 
     String.normalize()
+    Int.convertToText(context: Context): String
+    ArrayList<Int>.stringify(): String
 
 Questions
 ===
