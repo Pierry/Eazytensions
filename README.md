@@ -33,9 +33,6 @@ Questions
 
 Questions regarding Eazytensions can be asked on [StackOverflow, using the eazytensions tag](http://stackoverflow.com/questions/tagged/eazytensions).
 
-Credits
-===
-
 Developed by
 ===
 
